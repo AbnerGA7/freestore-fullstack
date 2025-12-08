@@ -1,7 +1,8 @@
 # 🛍️ FreeStore Fullstack E-commerce
 
 Bienvenido al repositorio oficial de **FreeStore**. Una plataforma de comercio electrónico moderna, rápida y escalable, construida con las últimas tecnologías web. Este proyecto integra un frontend dinámico con un gestor de contenidos (Headless CMS) para una administración total de productos.
-![Captura de tu Portafolio](screenshoot.jpg)
+
+![Captura de la tienda ](Screenshoot.jpg)
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -24,6 +25,8 @@ Este proyecto utiliza una arquitectura moderna separando el Frontend del Backend
 ### Backend & CMS (Administrador)
 * **Sanity.io:** Headless CMS para la gestión de la base de datos (Productos, Categorías, Banners).
 * **Sanity Studio:** Panel administrativo visual personalizable.
+
+## Captura del Panel ADmin en la DB
 ![Captura de tu Portafolio](ScreenshootAdmin.jpg)
 
 ---
