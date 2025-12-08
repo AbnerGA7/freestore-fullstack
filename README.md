@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio oficial de **FreeStore**. Una plataforma de comercio electrónico moderna, rápida y escalable, construida con las últimas tecnologías web. Este proyecto integra un frontend dinámico con un gestor de contenidos (Headless CMS) para una administración total de productos.
 
-![Captura de la tienda ](Screenshoot.jpg)
+![Captura de la tienda ](Screenshot.jpg)
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -27,7 +27,7 @@ Este proyecto utiliza una arquitectura moderna separando el Frontend del Backend
 * **Sanity Studio:** Panel administrativo visual personalizable.
 
 ## Captura del Panel ADmin en la DB
-![Captura de tu Portafolio](ScreenshootAdmin.jpg)
+![Captura de tu Portafolio](ScreenshotAdmin.jpg)
 
 ---
 
