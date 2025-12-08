@@ -7,6 +7,8 @@ Bienvenido al repositorio oficial de **FreeStore**. Una plataforma de comercio e
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+## 🚀 Demo en Vivo
+[Ver el sitio en vivo](https://frees-store-peru.netlify.app/)
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -19,14 +21,12 @@ Este proyecto utiliza una arquitectura moderna separando el Frontend del Backend
 * **React Router:** Manejo de rutas y navegación.
 * **Context API:** Gestión del estado global (Carrito de compras).
   
-## 🚀 Demo en Vivo
-[Ver el sitio en vivo](https://frees-store-peru.netlify.app/)
 
 ### Backend & CMS (Administrador)
 * **Sanity.io:** Headless CMS para la gestión de la base de datos (Productos, Categorías, Banners).
 * **Sanity Studio:** Panel administrativo visual personalizable.
 
-## Captura del Panel ADmin en la DB
+## Captura del Panel Admin en la DB
 ![Captura de tu Portafolio](ScreenshotAdmin.jpg)
 
 ---
@@ -40,7 +40,7 @@ Sigue estos pasos para correr el proyecto en tu máquina local.
 Abre tu terminal y ejecuta:
 
 ```bash
-git clone [https://github.com/AbnerGA7/freestore-fullstack.git](https://github.com/AbnerGA7/freestore-fullstack.git)
+git clone https://github.com/AbnerGA7/freestore-fullstack.git
 cd freestore-fullstack
  ```
 2. Configurar Variables de Entorno (¡Importante!)
